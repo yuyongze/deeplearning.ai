@@ -1,7 +1,10 @@
-# deeplearning.ai
-echo "# deeplearning.ai" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/yuyongze2014/deeplearning.ai.git
-git push -u origin master
+# Deep Learning Specialization on Coursera
+
+**Master Deep Learning, and Break into AI**
+
+Instructor: [Andrew Ng](http://www.andrewng.org/)
+
+## Introduction
+
+This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
+
